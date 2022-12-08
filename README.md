@@ -3,7 +3,11 @@ Welcome to my profile page! My name is Carmelino but you can call me Lino. I am 
 
 ##
 ### Languages and technologies I use
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,py,nodejs,express,flask,sqlite,postgres,github)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,py,nodejs,express,flask,sqlite,postgres,github" />
+  </a>
+</p>
 
 ##
 ### 📫 How to reach me:
@@ -12,6 +16,9 @@ Welcome to my profile page! My name is Carmelino but you can call me Lino. I am 
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/carmelino-galang)
 
 ##
-### Thanks for visiting!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center">
+    <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+</p>
+<h3 align="center">Thanks for visiting!</h3>
+
 
