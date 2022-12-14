@@ -1,5 +1,5 @@
 # Hi there 👋
-Welcome to my profile page! My name is Carmelino but you can call me Lino. I am passionate about coding and I am eager to learn as much as I can.  Beyond coding, I am and avid sport fan (Go Warrirors!) and I enjoy traveling, hiking and other outdoor activities. I hope you enjoy my profile page!
+Welcome to my profile page! My name is Carmelino but you can call me Lino. I am passionate about coding and I am eager to learn as much as I can.  Beyond coding, I am an avid sport fan (Go Warrirors!) and I enjoy traveling, hiking and other outdoor activities. I hope you enjoy my profile page!
 
 ##
 ### Languages and technologies I use
